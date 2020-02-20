@@ -1,0 +1,1 @@
+<?php echo "Creación de diccionario de datos"; ?>
